@@ -31,6 +31,6 @@ The site is configured for GitHub Pages from the `main` branch. Push changes to 
 
 ## Contact
 
-- Email: [amrutha20k@gmail.com](mailto:amrutha20k@gmail.com)
+- Email: [amrutha20k07@gmail.com](mailto:amrutha20k07@gmail.com)
 - LinkedIn: [linkedin.com/in/amrutha-20k](https://www.linkedin.com/in/amrutha-20k)
 - GitHub: [github.com/amrutha-k20](https://github.com/amrutha-k20)
